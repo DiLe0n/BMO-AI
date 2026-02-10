@@ -1,6 +1,8 @@
+//Este script permite la deteccion de modelos Gemini permitidos
+
 import google.generativeai as genai
 
-API_KEY = "AIzaSyARUfg-jtcxd5myWkSPio8R1x89aUU4C74" # <--- Pon tu clave real
+API_KEY = "TU_API_KEY" # <--- Pon tu clave real
 genai.configure(api_key=API_KEY)
 
 print("--- MODELOS DISPONIBLES PARA TI ---")
