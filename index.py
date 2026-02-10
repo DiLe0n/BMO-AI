@@ -28,7 +28,7 @@ import json
 try:
     from config_bimo import *
 except ImportError:
-    GEMINI_API_KEY = "AIzaSyCKA8QjUkPCtudSixWLNuzRrnJbeiJx0oQ"
+    GEMINI_API_KEY = "TU_API_KEY_AQUI"  # <--- Pon tu clave real
     VOZ_TTS = "es-MX-DaliaNeural"
     PITCH_VOZ = "+40Hz"
     VELOCIDAD_VOZ = "+20%"  # Más rápido
