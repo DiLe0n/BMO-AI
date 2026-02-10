@@ -1,4 +1,4 @@
-//Este script permite la deteccion de modelos Gemini permitidos
+# Este script permite la deteccion de modelos Gemini permitidos
 
 import google.generativeai as genai
 
